@@ -1,0 +1,52 @@
+/* 1. Universal Selector */
+
+/* *{
+    color: blue;
+} */
+
+
+/* 2. Type Selector */
+/* (single) */
+/* h1{
+    color: rgb(255, 0, 0);
+}
+/* (Multiple) */
+/* h1, span{
+    color: rgb(255, 0, 0);
+} */ 
+
+
+/* 3.Class Selector */
+ /* .wanted{
+    color: rgb(255, 0, 0);
+ } */
+
+
+ /* 4.ID Selector */
+ /* #my-span{
+    color: rgb(255, 0, 0);
+ } */
+
+
+ /* 5.Child Selector */
+ /* span > p{
+    color: rgb(255, 0, 0);
+ } */
+
+
+ /* 6. Decsendant selector */
+ /* div p{
+    color: rgb(255, 0, 0);
+ } */
+
+
+ /* 7. Adjacent Sibling Selector */
+ /* h1+p{
+    color: rgb(255, 0, 0);
+ } */
+
+
+ /* 8. General Sibling Selector */
+ /* h1~p{
+    color: rgb(255, 0, 0);
+ } */
